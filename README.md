@@ -18,6 +18,6 @@ flutter run
 - [Flutter](https://flutter.dev) - Flutter Official website
 
 - [Demo link on youtube](https://youtu.be/8UYoqe-gqzs)
-- [Apk Link](https://drive.google.com/drive/folders/1LgHXhpIDJyatYqy9dG2ooE1LfA28orfm?usp=share_link)
+
 
 
