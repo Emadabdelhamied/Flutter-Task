@@ -15,6 +15,7 @@ import 'features/home/presentation/pages/home_main.dart';
 
 void main() async {
   await GetStorage.init();
+  await EasyLocalization.ensureInitialized();
   HttpOverrides.global = MyHttpOverrides();
   WidgetsFlutterBinding.ensureInitialized();
   runApp(

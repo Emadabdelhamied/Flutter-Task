@@ -82,7 +82,7 @@ class HomeController extends GetxController {
         description: 'Product 9 description',
         image: '0xFFF7BEC0',
         address: 'Mansoura'),
-  ];
+  ].obs;
   void addToFavorites(int productId) async {
     var existingIndex =
         favoriteList.indexWhere((element) => element.id == productId);
