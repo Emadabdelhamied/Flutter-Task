@@ -19,5 +19,8 @@ flutter run
 
 - [Demo link on youtube](https://youtu.be/8UYoqe-gqzs)
 
+- [Apk link on drive](https://drive.google.com/file/d/1DOjQkXXi6DSnw0G2vVHUu6nncezi3SjX/view?usp=share_link)
+
+
 
 
